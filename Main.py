@@ -1,3 +1,5 @@
+# Something
+
 def get_people_names():
     while True:
         names_input = input("Enter names separated by commas (e.g., Fross, Twixx, Raff): ").strip()
